@@ -51,8 +51,5 @@ This is my personal portfolio website, showcasing my skills, experience, and hob
 - Boxicons: Icon library for clean and minimalistic icons.
 - Responsive Design: Built with media queries for different screen sizes.
 
-## Setup and Installation
 
-1. Clone this repository:
-   git clone https://github.com/Ilayoub/portfolio-website.git
 
